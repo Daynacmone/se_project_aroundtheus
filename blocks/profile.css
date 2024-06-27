@@ -52,10 +52,13 @@
   background: transparent url("../images/Edit-icon.svg") center no-repeat;
   border: 1px solid #fff;
   grid-area: button;
-  cursor: pointer;
   transition: 0.3s;
   padding: 0;
   margin-right: 20px;
+}
+.profile__edit-button:hover {
+  opacity: 0.6;
+  cursor: pointer;
 }
 
 .profile__add-button {
@@ -69,6 +72,11 @@
   cursor: pointer;
   margin-left: auto;
 }
+.profile__add-button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
 @media screen and (max-width: 800px) {
   .profile {
     display: flex;
