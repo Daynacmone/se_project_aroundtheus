@@ -8,10 +8,17 @@
   line-height: 21px;
   color: #545454;
 }
-@media screen and (max-width: 800px) {
+
+@media screen and (max-width: 620px) {
   .footer__copyright {
     font-size: 14px;
-    margin-top: 48px;
-    margin-bottom: 36px;
+    margin: 48px auto 36px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    font-size: 14px;
+    margin: 28px 19px 36px;
   }
 }
