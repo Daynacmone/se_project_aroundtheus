@@ -24,6 +24,9 @@ This is the third project of the Software Engineering program at TripleTen. It w
 ![Tablet view](./Around%20the%20Us%20Tablet%20View.png).
 ![Figma example pictures](./Figma%20Picture%20Example.png).
 
+**Demo Video**
+(https://www.loom.com/share/de502d7907154d15b45670ecab45b4ed?sid=32ed6a97-f698-46f0-81d3-523bc8abc5a2)
+
 **Plans on Impoving**
 
 - Create an interactive page where users can add and remove photos, like photos of other users, and make a few minor adjustments to their own profile.
