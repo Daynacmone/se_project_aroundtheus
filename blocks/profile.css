@@ -111,7 +111,6 @@
     line-height: 1.2;
     margin: 0;
     width: 100%;
-    text-overflow: ellipsis;
     white-space: nowrap;
     text-align: center;
   }
@@ -126,12 +125,10 @@
   .profile__edit-button {
     width: 18px;
     height: 18px;
-    top: auto;
-    left: auto;
     border: 1px solid #fff;
     padding: 0;
     box-sizing: border-box;
-    margin-top: 10px;
+    margin-top: 10px 0 0;
   }
   .profile__edit-button:hover {
     opacity: 0.6;
