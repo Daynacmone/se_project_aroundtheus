@@ -128,10 +128,6 @@
     box-sizing: border-box;
     margin: 10px 0 0;
   }
-  .profile__edit-button:hover {
-    opacity: 0.6;
-    cursor: pointer;
-  }
 
   .profile__add-button {
     height: 50px;
@@ -141,10 +137,5 @@
     width: 282px;
     padding-left: 19px;
     padding-right: 19px;
-  }
-
-  .profile__add-button:hover {
-    opacity: 0.6;
-    cursor: pointer;
   }
 }
