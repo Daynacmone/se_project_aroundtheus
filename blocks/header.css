@@ -1,5 +1,6 @@
 .header {
-  margin-top: 28px;
+  margin-top: 45px;
+  margin-bottom: 40px;
   min-height: 74px;
   border-bottom: solid;
   border-color: rgb(84 84 84 / 0.7);
@@ -12,8 +13,9 @@
 
 @media screen and (max-width: 320px) {
   .header {
+    margin: 0;
     max-width: 100%;
-    padding: 0;
+    padding: 28px 0 32px;
   }
 
   .header__logo {
